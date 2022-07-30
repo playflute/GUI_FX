@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<users> 
+  <user>
+    <ID>Jack</ID>
+    <password>567</password>
+    <birthday>2002-06-01</birthday>
+    <phoneNo>185</phoneNo>
+    <photo>kkk.jpg</photo>
+  </user>
+  <user> 
+    <ID>Cathy</ID>  
+    <password>156</password>  
+    <birthday>2018-03-13</birthday>  
+    <phoneNo>111</phoneNo>  
+    <photo>laoh.png</photo> 
+  </user>  
+  <user> 
+    <ID>Austin</ID>  
+    <password>990</password>  
+    <birthday>2022-06-07</birthday>  
+    <phoneNo>150</phoneNo>  
+    <photo>toki.png</photo> 
+  </user>  
+  <user> 
+    <ID>Wenhao</ID>  
+    <password>321</password>  
+    <birthday>2020-04-01</birthday>  
+    <phoneNo>110</phoneNo>  
+    <photo>ken.png</photo> 
+  </user>  
+  <user> 
+    <ID>Bob</ID>  
+    <password>123</password>  
+    <birthday>2017-09-06</birthday>  
+    <phoneNo>119</phoneNo>  
+    <photo>alevelcs9618.jpg</photo> 
+  </user> 
+</users>

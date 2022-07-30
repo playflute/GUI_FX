@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<DataEntries> 
+  <Entry>
+    <ID>Austin</ID>
+    <exerciseDate>2022-06-28</exerciseDate>
+    <exerciseType>seated rowing</exerciseType>
+    <totalDuration>110.0</totalDuration>
+  </Entry>
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2019-04-11</exerciseDate>  
+    <exerciseType>cycling machine</exerciseType>  
+    <totalDuration>2.240506329113924</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-04-08</exerciseDate>  
+    <exerciseType>seated rowing</exerciseType>  
+    <totalDuration>13.025316455696203</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-05-10</exerciseDate>  
+    <exerciseType>running machine</exerciseType>  
+    <totalDuration>2.9392405063291127</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-05-31</exerciseDate>  
+    <exerciseType>stair climber</exerciseType>  
+    <totalDuration>8.020253265960307</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-06-04</exerciseDate>  
+    <exerciseType>stair climber</exerciseType>  
+    <totalDuration>2.977215139171745</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Cathy</ID>  
+    <exerciseDate>2022-06-08</exerciseDate>  
+    <exerciseType>Pingpong</exerciseType>  
+    <totalDuration>5.893670652486101</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-06-03</exerciseDate>  
+    <exerciseType>seated rowing</exerciseType>  
+    <totalDuration>8.832911392405064</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-06-01</exerciseDate>  
+    <exerciseType>running machine</exerciseType>  
+    <totalDuration>20.0</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-06-05</exerciseDate>  
+    <exerciseType>hiit</exerciseType>  
+    <totalDuration>10.0</totalDuration> 
+  </Entry>  
+  <Entry> 
+    <ID>Austin</ID>  
+    <exerciseDate>2022-06-05</exerciseDate>  
+    <exerciseType>hiit</exerciseType>  
+    <totalDuration>100.0</totalDuration> 
+  </Entry> 
+</DataEntries>

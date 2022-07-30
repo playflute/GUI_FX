@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Sports>
+	<SportsItem>
+		<Name>hiit</Name>
+		<CalorieCostPerHour>900</CalorieCostPerHour>
+	</SportsItem>
+	
+	<SportsItem>
+		<Name>running machine</Name>
+		<CalorieCostPerHour>200</CalorieCostPerHour>
+	</SportsItem>
+	
+	<SportsItem>
+		<Name>seated rowing</Name>
+		<CalorieCostPerHour>420</CalorieCostPerHour>
+	</SportsItem>
+	
+	<SportsItem>
+		<Name>cycling machine</Name>
+		<CalorieCostPerHour>500</CalorieCostPerHour>
+	</SportsItem>
+	
+	<SportsItem>
+		<Name>stair climber</Name>
+		<CalorieCostPerHour>260</CalorieCostPerHour>
+	</SportsItem>
+
+</Sports>

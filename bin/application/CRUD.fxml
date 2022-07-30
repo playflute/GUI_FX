@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="658.0" prefWidth="1145.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Label fx:id="label" layoutX="293.0" layoutY="33.0" prefHeight="40.0" prefWidth="325.0" text="CRUD for Sports Record" textFill="#eb0808">
+         <font>
+            <Font name="Arial Black" size="24.0" />
+         </font>
+      </Label>
+      <Pane layoutX="6.0" layoutY="121.0" prefHeight="397.0" prefWidth="428.0" style="-fx-background-color: black;">
+         <children>
+            <Label layoutX="14.0" layoutY="53.0" prefHeight="32.0" prefWidth="152.0" text="ExerciseDate" textFill="#f8f3f3">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="146.0" prefHeight="32.0" prefWidth="152.0" text="ExerciseType" textFill="#f8f3f3">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <Label layoutX="14.0" layoutY="238.0" prefHeight="32.0" prefWidth="152.0" text="Duration" textFill="#f8f3f3">
+               <font>
+                  <Font size="24.0" />
+               </font>
+            </Label>
+            <TextField fx:id="txtExercciseDate" layoutX="192.0" layoutY="58.0" prefHeight="32.0" prefWidth="187.0" />
+            <TextField fx:id="txtExerciseType" layoutX="192.0" layoutY="156.0" prefHeight="32.0" prefWidth="187.0" />
+            <TextField fx:id="txtDuration" layoutX="192.0" layoutY="238.0" prefHeight="32.0" prefWidth="187.0" />
+         </children>
+      </Pane>
+      <TableView fx:id="table" layoutX="544.0" layoutY="121.0" prefHeight="397.0" prefWidth="565.0">
+        <columns>
+          <TableColumn fx:id="id_column" prefWidth="75.0" text="ID" />
+          <TableColumn fx:id="exerciseDate_column" prefWidth="140.0" text="ExerciseDate" />
+            <TableColumn fx:id="exerciseType_column" prefWidth="164.0" text="ExcerciseType" />
+            <TableColumn fx:id="duration_column" prefWidth="185.0" text="Duration" />
+        </columns>
+      </TableView>
+      <Button fx:id="btnAdd" layoutX="14.0" layoutY="559.0" mnemonicParsing="false" onAction="#add" prefHeight="64.0" prefWidth="113.0" style="-fx-background-color: red;" text="ADD" textFill="#f8f5f5">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnUpdate" layoutX="164.0" layoutY="559.0" mnemonicParsing="false" onAction="#update" prefHeight="64.0" prefWidth="113.0" style="-fx-background-color: red;" text="Update" textFill="#f8f5f5">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnDelete" layoutX="314.0" layoutY="559.0" mnemonicParsing="false" onAction="#delete" prefHeight="64.0" prefWidth="113.0" style="-fx-background-color: red;" text="Delete" textFill="#f8f5f5">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+      <Button fx:id="btnSync" layoutX="850.0" layoutY="553.0" mnemonicParsing="false" onAction="#synchronize" prefHeight="64.0" prefWidth="251.0" style="-fx-background-color: red;" text="synchronize with local XML" textFill="#f8f5f5">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>
